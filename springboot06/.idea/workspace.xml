@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cd84643-1cd6-4c07-83f5-e2a01d3bea0a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springboot@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springboot@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springboot@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springboot: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springboot@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springboot: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="login: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\GONGJU\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\GONGJU\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ciogKCJ4LqDnuXbr47TIKpgwWE" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot05" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GONGJU\IDEA\code\springboot06\shiro-springboot\src\main\resources\templates\user" />
+      <recent name="D:\GONGJU\IDEA\code\springboot06\hello-shiro\src\main\java" />
+      <recent name="D:\GONGJU\IDEA\code\springboot06\hello-shiro\src\main\resources" />
+      <recent name="D:\GONGJU\IDEA\code\springboot06\hello-shiro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShiroSpringbootApplication">
+    <configuration name="Quickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quickstart" />
+      <module name="hello-shiro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroSpringbootApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shiro-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ev" />
+      <option name="MAIN_CLASS_NAME" value="com.ev.ShiroSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ev.ShiroSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShiroSpringbootApplicationTests.contextLoads" />
+        <item itemvalue="Application.Quickstart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\13014\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cd84643-1cd6-4c07-83f5-e2a01d3bea0a" name="默认更改列表" comment="" />
+      <created>1591020885052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591020885052</updated>
+      <workItem from="1591020890512" duration="4618000" />
+      <workItem from="1591066092630" duration="23997000" />
+      <workItem from="1591240484316" duration="269000" />
+      <workItem from="1591242103918" duration="677000" />
+      <workItem from="1591308883831" duration="299000" />
+      <workItem from="1591324967449" duration="1429000" />
+      <workItem from="1591327116926" duration="237000" />
+      <workItem from="1591366616250" duration="2884000" />
+      <workItem from="1591405772844" duration="8108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591111395423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="233" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591111395422" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1591113952156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591113952156" />
+    <state x="361" y="71" key="#项目结构" timestamp="1591026753566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#项目结构/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591026753566" />
+    <state x="2469" y="167" key="FileChooserDialogImpl" timestamp="1591439335331">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591117017567" />
+    <state x="2469" y="167" key="FileChooserDialogImpl/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439335331" />
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294629" />
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.0.center" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294629" />
+    <state width="1493" height="322" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.0.left" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294629" />
+    <state width="1493" height="322" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.0.right" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294629" />
+    <state width="1493" height="322" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.1.bottom" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.1.bottom/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="322" key="GridCell.Tab.1.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.1.center" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.1.center/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="322" key="GridCell.Tab.1.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.1.left" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.1.left/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="322" key="GridCell.Tab.1.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="322" key="GridCell.Tab.1.right" timestamp="1591439337021">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.1.right/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="322" key="GridCell.Tab.1.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1591439337021" />
+    <state width="1493" height="457" key="GridCell.Tab.2.bottom" timestamp="1591118294630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.2.bottom/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="457" key="GridCell.Tab.2.center" timestamp="1591118294630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.2.center/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="457" key="GridCell.Tab.2.left" timestamp="1591118294630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.2.left/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state width="1493" height="457" key="GridCell.Tab.2.right" timestamp="1591118294630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="457" key="GridCell.Tab.2.right/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591118294630" />
+    <state x="485" y="48" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591116266051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="48" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591116266051" />
+    <state x="336" y="40" width="898" height="706" key="new project wizard" timestamp="1591066329941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="336" y="40" width="898" height="706" key="new project wizard/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591066329941" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591088480499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591088480499" />
+  </component>
+</project>
